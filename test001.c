@@ -8,5 +8,7 @@ int main() {
 	printf("%d", a);
 	c = a + b;
 	printf("%d", c);
+	printf("edited_2");
+	printf("edited_3");
 	return 0;
 }
