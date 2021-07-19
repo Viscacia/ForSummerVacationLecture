@@ -10,6 +10,10 @@ int main() {
 	printf("%d", c);
 	printf("edited_2");
 	printf("edited_3");
+<<<<<<< HEAD
 	printf("edited_4");
+=======
+	printf("edited_4_1");
+>>>>>>> update_branch
 	return 0;
 }
